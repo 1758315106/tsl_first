@@ -84,7 +84,7 @@ junit：单元测试工具，开发人员功能实现完毕后，需要通过jun
 
 1.项目的数据库创建好了之后, 可以直接将资料中 db 直接导入到数据库中。
 
-![image-20210726124752975](assets/image-20210726124752975.png)
+![image-20210726124752![image-20210730012723560](https://github.com/1758315106/tsl_first/assets/101967822/c00ee493-97f3-429f-87c5-6d19bade653c)
 
 2.导入**pom.xml**文件依赖
 
@@ -94,7 +94,7 @@ junit：单元测试工具，开发人员功能实现完毕后，需要通过jun
 
 登录页面存放目录 /resources/backend/page/login/login.html
 
-<img src="assets/image-20210726233631409.png" alt="image-20210726233631409" style="zoom:80%;" />
+![image-20210727005437531](https://github.com/1758315106/tsl_first/assets/101967822/55942bbb-1749-41ce-b84c-c54877ed4cb7)
 
 直接点击右侧的退出按钮即可退出系统
 
@@ -136,7 +136,8 @@ E. 如果未登录, 则返回未登录结果
 
 当管理员admin点击 "启用" 或 "禁用" 按钮时, 调用方法statusHandle
 
-![image-20210730012723560](D:\reggiewaimai\讲义\瑞吉外卖-day02\assets\image-20210730012723560.png)
+![image-20210726233631409](https://github.com/1758315106/tsl_first/assets/101967822/3bf85fe2-8f56-46ad-9446-ee3580d12244)
+
 
 修改员工信息本质是一个更新操作，也就是对status状态字段进行操作。
 
