@@ -1,4 +1,3 @@
-![image-20210726122825225](https://github.com/1758315106/tsl_first/assets/101967822/a20f8ce3-dd4e-446e-84fa-8a425bb2b17f)
 # tsl_first
 外卖管理系统（前后端）
 ### 1.项目概述
@@ -70,7 +69,7 @@ maven: 项目构建工具。
 
 junit：单元测试工具，开发人员功能实现完毕后，需要通过junit对功能进行单元测试。
 
-![image-20210726122825225](D:\reggiewaimai\瑞吉外卖-day01\assets\image-20210726122825225.png)
+![image-20210726122825225](https://github.com/1758315106/tsl_first/assets/101967822/a20f8ce3-dd4e-446e-84fa-8a425bb2b17f)
 
 ### 3.开发环境
 
