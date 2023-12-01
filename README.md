@@ -10,7 +10,7 @@
 | 针对移动端应用进行改进，使用微信小程序实现，用户使用起来更加方便 |
 | 针对系统进行优化升级，提高系统的访问性能                     |
 
-**1). 管理端**![image-20210726233631409](https://github.com/1758315106/tsl_first/assets/101967822/02b77295-e138-4408-a196-a08a128925eb)
+**1). 管理端**
 
 
 餐饮企业内部员工使用。 主要功能有: 
@@ -95,11 +95,12 @@ junit：单元测试工具，开发人员功能实现完毕后，需要通过jun
 
 登录页面存放目录 /resources/backend/page/login/login.html
 
-![image-20210727005437531](https://github.com/1758315106/tsl_first/assets/101967822/55942bbb-1749-41ce-b84c-c54877ed4cb7)
+![image-20210726233631409](https://github.com/1758315106/tsl_first/assets/101967822/02b77295-e138-4408-a196-a08a128925eb)
 
 直接点击右侧的退出按钮即可退出系统
 
-<img src="assets/image-20210727005437531.png" alt="image-20210727005437531" style="zoom:80%;" />
+![image-20210727005437531](https://github.com/1758315106/tsl_first/assets/101967822/bc8842aa-b723-478f-b019-8914beab27de)
+
 
 #### 2.1完善登录功能
 
