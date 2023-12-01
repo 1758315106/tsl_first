@@ -126,11 +126,13 @@ E. 如果未登录, 则返回未登录结果
 
 后台系统中可以管理员工信息，通过新增员工来添加后台系统用户。点击[添加员工]按钮跳转到新增页面
 
-![image-20210728002442334](D:\reggiewaimai\讲义\瑞吉外卖-day02\assets\image-20210728002442334.png)
+![image-20210728002442334](https://github.com/1758315106/tsl_first/assets/101967822/f9d0e233-7fad-4702-9e4b-030e78a6ba89)
+
 
 新增员工，其实就是将我们新增页面录入的员工数据插入到employee表。employee表中的status字段已经设置了默认值1，表示状态正常。
 
-![image-20210728004144521](D:\reggiewaimai\讲义\瑞吉外卖-day02\assets\image-20210728004144521.png)
+![image-20210728004144521](https://github.com/1758315106/tsl_first/assets/101967822/0cadccdb-709c-47d5-b1c5-c5c43dea6286)
+
 
 ##### 3.2启用/禁用员工账号
 
@@ -138,7 +140,7 @@ E. 如果未登录, 则返回未登录结果
 
 当管理员admin点击 "启用" 或 "禁用" 按钮时, 调用方法statusHandle
 
-![image-20210726233631409](https://github.com/1758315106/tsl_first/assets/101967822/3bf85fe2-8f56-46ad-9446-ee3580d12244)
+![image-20210730012723560](https://github.com/1758315106/tsl_first/assets/101967822/e1d18803-f211-4714-be44-89986903dbca)
 
 
 修改员工信息本质是一个更新操作，也就是对status状态字段进行操作。
